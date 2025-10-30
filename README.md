@@ -163,7 +163,7 @@ npm run dev
 - Add filters (completed / pending)
 - Integrate Quasar UI components later
 
-****\*\*\*\*****Next is the Quasar section******\*\*\*******
+\***\*\*\*\*\*\*\***Next is the Quasar section**\*\***\*\*\***\*\***
 
 Quasar Integration Guide
 This document explains how Quasar UI framework was integrated into our Vue.js project.
