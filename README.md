@@ -1,9 +1,3 @@
-Absolutely 👍 — here’s a **clean and well-structured README.md** draft that documents what we’ve done so far in your Vue.js fundamentals practice project (the Task Manager).
-
-You can directly copy this into your project’s `README.md` file.
-
----
-
 # 📝 Task Manager – Vue 3 Fundamentals Project
 
 This project is a small **Task Manager app** built using **Vue 3 (Composition API)**.
